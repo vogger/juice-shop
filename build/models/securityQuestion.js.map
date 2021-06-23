@@ -1,0 +1,1 @@
+{"version":3,"file":"securityQuestion.js","sourceRoot":"","sources":["../../models/securityQuestion.ts"],"names":[],"mappings":";AAAA;;;GAGG;AAGH,iBAAS,CAAC,SAAS,EAAE,EAAE,MAAM,EAAE,EAAE,EAAE;IACjC,MAAM,gBAAgB,GAAG,SAAS,CAAC,MAAM,CAAC,kBAAkB,EAAE;QAC5D,QAAQ,EAAE,MAAM;KACjB,CACA,CAAA;IACD,OAAO,gBAAgB,CAAA;AACzB,CAAC,CAAA"}
